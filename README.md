@@ -30,9 +30,14 @@ environments.🤓
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/devops_5680036.png" alt="Devops" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azure-devops-svgrepo-com.svg" alt="Azure-Devops" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azurepipelines-svgrepo-com.svg" alt="Azure-Pipeline" width="60" height="60"/>
-  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="Powershell" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="shell" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/database_4248443.png" alt="SQL" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/golang_logo_icon_171073.png" alt="GO" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/powershell.png" alt="Powershell" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/yaml.png" alt="YAML" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/postman.jpg" alt="Postman" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/git-bash-logo.png" alt="GITBash" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/vscode.png" alt="vscode" width="60" height="60"/>
 </p>
 
 
