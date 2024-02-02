@@ -32,6 +32,7 @@ environments.🤓
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azurepipelines-svgrepo-com.svg" alt="Azure-Pipeline" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="shell" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/database_4248443.png" alt="SQL" width="60" height="60"/>
+    <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terraform.jpg" alt="terraform" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/golang_logo_icon_171073.png" alt="GO" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/powershell.png" alt="Powershell" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/yaml.png" alt="YAML" width="60" height="60"/>
