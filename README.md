@@ -1,4 +1,4 @@
-### Hi there 👋 I am Avinash Kumar a Devops Engineer
+### Hi there 👋 I am Avinash Kumar, a devops engineer.
 
 
 <!-- **aviavinashkr/aviavinashkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
