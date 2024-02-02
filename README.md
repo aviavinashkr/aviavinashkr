@@ -31,8 +31,8 @@ environments.🤓
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azure-devops-svgrepo-com.svg" alt="Azure-Devops" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azurepipelines-svgrepo-com.svg" alt="Azure-Pipeline" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="Powershell" width="60" height="60"/>
-  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/database_4248443.png" alt="Powershell" width="60" height="60"/>
-  
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/database_4248443.png" alt="SQL" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/devops_5680036.png" alt="GO" width="60" height="60"/>
 </p>
 
 
