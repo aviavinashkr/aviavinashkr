@@ -1,18 +1,24 @@
-### Hi there 👋 I am Avinash Kumar
+### Hi there 👋 I am Avinash Kumar a Devops Engineer
 
 
 <!-- **aviavinashkr/aviavinashkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 2.5 Years of Experience in the IT Industry as DevOps & Automation Engineer, Support and Enhancement
+Engineer.🏢
+
+- Microsoft Certified Azure fundamental having in Microsoft Azure, Azure DevOps, CI/CD pipelines,
+Infrastructure as Code (IaC) using Terraform, Version Control using GIT, PowerShell scripting for Automation.💻
+
+- Worked in various project phases: Requirement gathering, Requirement Analysis, Functional Specification,
+Business Logic's, Design, Test plans, Coding, Code review, Testing, Performance tuning, Documentation,
+Implementation and Maintenance.
+
+- Development, Enhancement and Support Projects, having delivered complex deliverables in challenging
+environments.🤓
+
+
 
 <p align="middle"><a href="https://www.linkedin.com/in/avinash-kumar-910957141/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/></a></p>
 
@@ -21,10 +27,10 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 
 <p align="middle">
-  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/devops_5680036.png" alt="python" width="60" height="60"/>
-  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azure-devops-svgrepo-com.svg" alt="android" width="60" height="60"/>
-  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azurepipelines-svgrepo-com.svg" alt="kotlin" width="60" height="60"/>
-  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="python" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/devops_5680036.png" alt="Devops" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azure-devops-svgrepo-com.svg" alt="Azure-Devops" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azurepipelines-svgrepo-com.svg" alt="Azure-Pipeline" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="Powershell" width="60" height="60"/>
 
 </p>
 
