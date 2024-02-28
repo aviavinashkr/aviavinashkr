@@ -50,3 +50,6 @@ environments.🤓
 
 
 ***
+<img src="https://raw.githubusercontent.com/aviavinashkr/aviavinashkr/output/snake.svg" alt="Snake animation" />
+
+###
