@@ -1,4 +1,6 @@
-### Hi there 👋 I am Avinash Kumar, a devops engineer.
+### Hi there 👋 I am Avinash Kumar, a DevOps engineer.
+---
+[![](https://visitcount.itsvg.in/api?id=aviavinashkr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aviavinashkr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -48,13 +50,6 @@ environments.🤓
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/vscode.png" alt="vscode" width="60" height="60"/>
 </p>
 
-### 😂 Random Dev Meme
-<img src='https://api.imgflip.com/get_memes/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=aviavinashkr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ***
 <img src="https://raw.githubusercontent.com/aviavinashkr/aviavinashkr/output/snake.svg" alt="Snake animation" />
