@@ -48,6 +48,13 @@ environments.🤓
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/vscode.png" alt="vscode" width="60" height="60"/>
 </p>
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=aviavinashkr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ***
 <img src="https://raw.githubusercontent.com/aviavinashkr/aviavinashkr/output/snake.svg" alt="Snake animation" />
