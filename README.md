@@ -3,8 +3,8 @@
 [![](https://visitcount.itsvg.in/api?id=aviavinashkr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviavinashkr&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinashkr&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviavinashkr&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinashkr&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 ###
@@ -29,7 +29,7 @@ environments.🤓
 
 
 
-<p align="middle"><a href="https://www.linkedin.com/in/avinash-kumar-910957141/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/></a></p>
+<p align="middle"><a href="https://www.linkedin.com/in/avinash-kumar-910957141/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
 
 ***
 
@@ -41,7 +41,7 @@ environments.🤓
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/azurepipelines-svgrepo-com.svg" alt="Azure-Pipeline" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terminal_8452890.png" alt="shell" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/database_4248443.png" alt="SQL" width="60" height="60"/>
-    <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terraform.jpg" alt="terraform" width="60" height="60"/>
+  <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/terraform.jpg" alt="terraform" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/golang_logo_icon_171073.png" alt="GO" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/powershell.png" alt="Powershell" width="60" height="60"/>
   <img src="https://github.com/aviavinashkr/aviavinashkr/blob/main/assets/yaml.png" alt="YAML" width="60" height="60"/>
@@ -55,3 +55,7 @@ environments.🤓
 <img src="https://raw.githubusercontent.com/aviavinashkr/aviavinashkr/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviavinashkr&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</div>
