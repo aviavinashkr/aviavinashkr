@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviavinashkr&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aviavinashkr&theme=dracula" alt="Trophy" />
 </div>
 
 ###
