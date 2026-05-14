@@ -3,8 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=aviavinashkr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviavinashkr&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviavinashkr&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviavinashkr&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ###
