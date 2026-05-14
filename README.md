@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviavinashkr&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviavinashkr&theme=dracula" alt="Activity Graph" />
 </div>
 
 ###
@@ -54,8 +53,3 @@ environments.🤓
 ***
 <img src="https://raw.githubusercontent.com/aviavinashkr/aviavinashkr/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviavinashkr&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</div>
