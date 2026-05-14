@@ -53,3 +53,6 @@ environments.🤓
 ***
 <img src="https://raw.githubusercontent.com/aviavinashkr/aviavinashkr/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub" />
+</div>
