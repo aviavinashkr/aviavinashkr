@@ -20,9 +20,9 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <p>I am a passionate <b>DevOps & Automation Engineer</b> with over 4.6 years of experience in the IT industry. I specialize in cloud infrastructure orchestration, automation pipelines, and software release enhancement.</p>
+      <p>I am a passionate <b>DevOps & Automation Engineer</b> with over 5 years of experience in the IT industry. I specialize in cloud infrastructure orchestration, automation pipelines, and software release enhancement.</p>
       <ul>
-        <li>💼 <b>4 Years & 10 Months of Experience</b> as a DevOps, Automation, Support, and Enhancement Engineer.</li>
+        <li>💼 <b>5 Years Experience</b> as a DevOps, Automation, Support, and Enhancement Engineer.</li>
         <li>☁️ <b>Microsoft Certified Azure Fundamentals</b> with hands-on expertise in Microsoft Azure, Azure DevOps, CI/CD pipelines, and Infrastructure as Code (IaC) using Terraform.</li>
         <li>⚙️ <b>Automation Advocate</b> using PowerShell, Bash, and Go to streamline operations and enhance system availability.</li>
         <li>🔄 <b>End-to-End Delivery</b> across all project phases: gathering requirements, coding, automated testing, performance tuning, and implementation.</li>
